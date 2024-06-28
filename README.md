@@ -89,4 +89,7 @@ npm start
 - MongoDB: NoSQL database for storing application data.
 - JWT: JSON Web Tokens used for authentication and securing API endpoints.
 
+### Documentation
+
+For detailed documentation, including API endpoints and usage, please refer to [Google Docs](https://docs.google.com/document/d/1ITYqZLfMNdC8ulmIOX9QAqOaO3WAgnPbsKBgLWiHmOU/edit?usp=sharing).
 
